@@ -1,0 +1,17 @@
+C:\Users\dines\source\BankingAPI\BankSystem\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\dines\source\BankingAPI\BankSystem\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\dines\source\BankingAPI\BankSystem\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\dines\source\BankingAPI\BankSystem\bin\Debug\netcoreapp2.1\BankSystem.deps.json
+C:\Users\dines\source\BankingAPI\BankSystem\bin\Debug\netcoreapp2.1\BankSystem.runtimeconfig.json
+C:\Users\dines\source\BankingAPI\BankSystem\bin\Debug\netcoreapp2.1\BankSystem.runtimeconfig.dev.json
+C:\Users\dines\source\BankingAPI\BankSystem\bin\Debug\netcoreapp2.1\BankSystem.dll
+C:\Users\dines\source\BankingAPI\BankSystem\bin\Debug\netcoreapp2.1\BankSystem.pdb
+C:\Users\dines\source\BankingAPI\BankSystem\obj\Debug\netcoreapp2.1\BankSystem.csprojAssemblyReference.cache
+C:\Users\dines\source\BankingAPI\BankSystem\obj\Debug\netcoreapp2.1\BankSystem.AssemblyInfoInputs.cache
+C:\Users\dines\source\BankingAPI\BankSystem\obj\Debug\netcoreapp2.1\BankSystem.AssemblyInfo.cs
+C:\Users\dines\source\BankingAPI\BankSystem\obj\Debug\netcoreapp2.1\BankSystem.RazorAssemblyInfo.cache
+C:\Users\dines\source\BankingAPI\BankSystem\obj\Debug\netcoreapp2.1\BankSystem.RazorAssemblyInfo.cs
+C:\Users\dines\source\BankingAPI\BankSystem\obj\Debug\netcoreapp2.1\BankSystem.RazorTargetAssemblyInfo.cache
+C:\Users\dines\source\BankingAPI\BankSystem\obj\Debug\netcoreapp2.1\BankSystem.dll
+C:\Users\dines\source\BankingAPI\BankSystem\obj\Debug\netcoreapp2.1\BankSystem.pdb
+C:\Users\dines\source\BankingAPI\BankSystem\obj\Debug\netcoreapp2.1\BankSystem.genruntimeconfig.cache
